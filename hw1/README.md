@@ -21,7 +21,7 @@ Task:  Estimate homography between two given images by finding corresponding poi
 2. Compute the error and results, and compare them with those from Part 2 to identify any differences.
 (BONUS) Experiment with alternative methods or techniques that could potentially improve the DLT or normalized DLT approach.
 
-**Problem 2: Document Rectification**
+## Problem 2: Document Rectification**
 
 Task:  Recover the original geometry of a document image distorted by perspective transformation caused by camera capture.
 
